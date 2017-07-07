@@ -37,6 +37,11 @@ h2 {
   text-align: center;
 }
 
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}
+
 .team-container {
   background-color: #4BDDB9;
   width: 100%;
